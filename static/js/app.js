@@ -27,7 +27,6 @@ var filters = [];
 function updateFilters() {
 
     // 4a. Save the element that was changed as a variable. Create a variable that saves the "changed element" using d3.select(this).
-    // https://website.education.wisc.edu/~swu28/d3t/concept.html
     let changedElement = d3.select(this);
     // 4b. Save the value that was changed as a variable. Create a variable that saves the "value of the changed element’s property".
     let elementValue = changedElement.property("value");
