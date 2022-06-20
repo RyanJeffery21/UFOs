@@ -14,11 +14,11 @@ The purpose of this challenge was to create a JavaScript array of UFO data that 
 
 ![search_blank](static/images/search_blank.png)
 
-This is how the website appears when first opened.  The search fields are pre-populated with examples of how to enter the data to properly search the database.
+This is how the website appears when first opened.  The search fields are pre-populated with examples of how to enter the data to properly search the database.  Notice the case requirements and format.
 
 ![search_used](static/images/search_used.png)
 
-This is showing the website after searching for the state of Kansas.  
+The above image is showing the results when the user is searching for sightings in the state of Kansas using the search word "ks". 
 
 # Summary
 
